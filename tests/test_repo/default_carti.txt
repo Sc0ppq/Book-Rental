@@ -1,0 +1,7 @@
+1|Pride and Prejudice|Jane Austen|A classic love story set in 19th-century England.
+2|Crime and Punishment|Fyodor Dostoevsky|A novel about guilt and redemption.
+3|1984|George Orwell|A tale of a totalitarian regime led by the Big Brother.
+4|To Kill a Mockingbird|Harper Lee|A story about racial injustice and moral growth.
+5|The Great Gatsby|F. Scott Fitzgerald|A tragic romance exploring wealth, and the American Dream.
+6|The Catcher in the Rye|J.D. Salinger|A tale of teenage rebellion.
+7|The Lord of the Rings|J.R.R. Tolkien|An epic adventure of friendship, courage, and good versus evil.
